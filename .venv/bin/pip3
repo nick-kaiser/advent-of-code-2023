@@ -1,4 +1,4 @@
-#!/Users/nick/Documents/Code/day_1/.venv/bin/python3.11
+#!/Users/nick/Documents/Code/advent-of-code-2023/.venv/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys
