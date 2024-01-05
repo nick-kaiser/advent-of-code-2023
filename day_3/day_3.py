@@ -3,7 +3,7 @@
 
 import re
 
-input_path = './day_3/data/d2_input.txt'
+input_path = './day_3/data/d3_input.txt'
 
 with open(input_path) as file:
     lines = [re.sub('\n', '', line) for line in file]
